@@ -6,7 +6,7 @@ import pic from "../Images/portfolio.2.jpg";
 const Projects = () => {
   const projectList = [
     {
-      title: "Restraunt Website",
+      title: "Restaurant Website",
       description: "A modern restaurant website built with HTML and responsive UI design.",
       tech: "HTML, CSS, JavaScript",
       image: mypic,
